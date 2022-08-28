@@ -21,5 +21,5 @@
 
 
 ## Contacts:
-* **Created by:[Kushal Sangal]**
-* **Email:[sangalkushal@gmail.com](https://sangalkushal@gmail.com)**
+* **Created by : Kushal Sangal**
+* **Email : [sangalkushal@gmail.com](https://sangalkushal@gmail.com)**
