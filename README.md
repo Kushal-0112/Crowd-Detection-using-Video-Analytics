@@ -16,9 +16,8 @@
 * **Run the command** `time python social_distance_detector.py --input trim.mp4 --output output.avi --display 1
 ` 
 
-#### After you run the last line of command, a `output.avi` file will be showing up in your directory.
+#### After you run the last line of command, a ` output.avi ` file will be showing up in your directory.
 
 
-## Contacts:
-* **Contributor : Kushal Sangal**
+* **Contributor :** ` Kushal Sangal ` `Oupal Nayak `
 * **Email : [sangalkushal@gmail.com](https://sangalkushal@gmail.com)**
